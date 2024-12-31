@@ -1,9 +1,6 @@
 # 🛠️ <b> RDPACESSOR V6 - REBORN ( *NEW* )</b> 
 
-<!-- ![CSHARP](https://img.shields.io/badge/Language-CSHARP-lightgreen?style=for-the-badge&logo=csharp)
-<img src="https://img.shields.io/github/v/release/K3rnel-Dev/RDPAcessor?style=for-the-badge&color=cyan">
-<img src="https://img.shields.io/github/downloads/K3rnel-Dev/RDPAcessor/total?style=for-the-badge&color=pink">
-<img src="https://img.shields.io/github/license/K3rnel-Dev/RDPAcessor?style=for-the-badge&color=red"></img>  -->
+>![CSHARP](https://img.shields.io/badge/Language-CSHARP-lightgreen?style=for-the-badge&logo=csharp) <img src="https://img.shields.io/github/v/release/K3rnel-Dev/RDPAcessor?style=for-the-badge&color=cyan"> <img src="https://img.shields.io/github/downloads/K3rnel-Dev/RDPAcessor/total?style=for-the-badge&color=pink"> <img src="https://img.shields.io/github/license/K3rnel-Dev/RDPAcessor?style=for-the-badge&color=red"></img> 
 
 >![Banner](banner.png)
 
