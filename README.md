@@ -1,4 +1,4 @@
-# 🛠️ <b>RDPACessor V6 - REBORN ( *NEW* )</b> 
+# 🛠️ <b> RDPACESSOR V6 - REBORN ( *NEW* )</b> 
 
 <!-- ![CSHARP](https://img.shields.io/badge/Language-CSHARP-lightgreen?style=for-the-badge&logo=csharp)
 <img src="https://img.shields.io/github/v/release/K3rnel-Dev/RDPAcessor?style=for-the-badge&color=cyan">
@@ -7,8 +7,7 @@
 
 >![Banner](banner.png)
 
-
-<!-- ### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/RDPAcessor/releases/download/Build)**  -->
+### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/RDPAcessor/releases/download/Build/RDPAcessorV6.exe)**  
 
 ```diff
 - to compile this project(s) visual studio 2019 or above to is required and dnlib package
